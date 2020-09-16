@@ -1,4 +1,8 @@
 # STATA_CODE
+
+[Prescription Drug Coverage on Drug Expenditures Among Seniors
+](https://github.com/rudymeza54/STATA_CODE/blob/master/today.do)
+
 I expand upon previous studies such as Lillard et al (1999),  Khan et al (2007), and Miller et al (2007), on prescription drug use and expenditures. The methods used are similar to Miller et al (2007), however, my data is more recent and pooled from 2005-2015.
 
 
